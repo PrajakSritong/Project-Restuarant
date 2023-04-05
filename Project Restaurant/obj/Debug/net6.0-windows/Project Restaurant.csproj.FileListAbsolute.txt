@@ -1,0 +1,36 @@
+C:\Users\poste\Desktop\ปปxx\Project Restaurant\Project Restaurant\bin\Debug\net6.0-windows\Project Restaurant.exe
+C:\Users\poste\Desktop\ปปxx\Project Restaurant\Project Restaurant\bin\Debug\net6.0-windows\Project Restaurant.deps.json
+C:\Users\poste\Desktop\ปปxx\Project Restaurant\Project Restaurant\bin\Debug\net6.0-windows\Project Restaurant.runtimeconfig.json
+C:\Users\poste\Desktop\ปปxx\Project Restaurant\Project Restaurant\bin\Debug\net6.0-windows\Project Restaurant.dll
+C:\Users\poste\Desktop\ปปxx\Project Restaurant\Project Restaurant\bin\Debug\net6.0-windows\Project Restaurant.pdb
+C:\Users\poste\Desktop\ปปxx\Project Restaurant\Project Restaurant\obj\Debug\net6.0-windows\Project Restaurant.csproj.AssemblyReference.cache
+C:\Users\poste\Desktop\ปปxx\Project Restaurant\Project Restaurant\obj\Debug\net6.0-windows\Project Restaurant.csproj.GenerateResource.cache
+C:\Users\poste\Desktop\ปปxx\Project Restaurant\Project Restaurant\obj\Debug\net6.0-windows\Project Restaurant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\poste\Desktop\ปปxx\Project Restaurant\Project Restaurant\obj\Debug\net6.0-windows\Project Restaurant.AssemblyInfoInputs.cache
+C:\Users\poste\Desktop\ปปxx\Project Restaurant\Project Restaurant\obj\Debug\net6.0-windows\Project Restaurant.AssemblyInfo.cs
+C:\Users\poste\Desktop\ปปxx\Project Restaurant\Project Restaurant\obj\Debug\net6.0-windows\Project Restaurant.csproj.CoreCompileInputs.cache
+C:\Users\poste\Desktop\ปปxx\Project Restaurant\Project Restaurant\obj\Debug\net6.0-windows\Project Restaurant.dll
+C:\Users\poste\Desktop\ปปxx\Project Restaurant\Project Restaurant\obj\Debug\net6.0-windows\refint\Project Restaurant.dll
+C:\Users\poste\Desktop\ปปxx\Project Restaurant\Project Restaurant\obj\Debug\net6.0-windows\Project Restaurant.pdb
+C:\Users\poste\Desktop\ปปxx\Project Restaurant\Project Restaurant\obj\Debug\net6.0-windows\Project Restaurant.genruntimeconfig.cache
+C:\Users\poste\Desktop\ปปxx\Project Restaurant\Project Restaurant\obj\Debug\net6.0-windows\ref\Project Restaurant.dll
+C:\Users\poste\Desktop\ปปxx\Project Restaurant\Project Restaurant\obj\Debug\net6.0-windows\Project_Restaurant.Properties.Resources.resources
+C:\Users\poste\Desktop\ปปxx\Project Restaurant\Project Restaurant\obj\Debug\net6.0-windows\Project_Restaurant.Menufood.resources
+C:\Users\poste\Desktop\ปปxx\Project Restaurant\Project Restaurant\obj\Debug\net6.0-windows\Project_Restaurant.Order.resources
+C:\Users\poste\Desktop\ปปxx\Project Restaurant\Project Restaurant\bin\Debug\net6.0-windows\Microsoft.Office.Interop.Excel.dll
+C:\Users\poste\Desktop\ปปxx\Project Restaurant\Project Restaurant\obj\Debug\net6.0-windows\Project Restaurant.csproj.CopyComplete
+C:\Users\poste\Desktop\ปปxx\Project Restaurant\Project Restaurant\obj\Debug\net6.0-windows\Project_Restaurant.Restuarant.resources
+C:\Users\poste\Desktop\ปปxx\Project Restaurant\Project Restaurant\bin\Debug\net6.0-windows\EPPlus.dll
+C:\Users\poste\Desktop\ปปxx\Project Restaurant\Project Restaurant\bin\Debug\net6.0-windows\EPPlus.Interfaces.dll
+C:\Users\poste\Desktop\ปปxx\Project Restaurant\Project Restaurant\bin\Debug\net6.0-windows\EPPlus.System.Drawing.dll
+C:\Users\poste\Desktop\ปปxx\Project Restaurant\Project Restaurant\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\poste\Desktop\ปปxx\Project Restaurant\Project Restaurant\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\poste\Desktop\ปปxx\Project Restaurant\Project Restaurant\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\poste\Desktop\ปปxx\Project Restaurant\Project Restaurant\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\poste\Desktop\ปปxx\Project Restaurant\Project Restaurant\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\poste\Desktop\ปปxx\Project Restaurant\Project Restaurant\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\poste\Desktop\ปปxx\Project Restaurant\Project Restaurant\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\poste\Desktop\ปปxx\Project Restaurant\Project Restaurant\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\poste\Desktop\ปปxx\Project Restaurant\Project Restaurant\bin\Debug\net6.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\poste\Desktop\ปปxx\Project Restaurant\Project Restaurant\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\poste\Desktop\ปปxx\Project Restaurant\Project Restaurant\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
